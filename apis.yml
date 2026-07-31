@@ -1,8 +1,27 @@
 aid: ofbusiness
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ofbusiness.png
 name: Ofbusiness
-description: 'Ofbusiness is a company surfaced as a portfolio company of norwest-venture-partners, softbank-vision-fund
-  and added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a
-  lead awaiting the enrichment pipeline.'
+description: 'OfBusiness is one of India''s largest B2B raw-materials procurement and
+  credit platforms, serving more than two million SMEs and corporates. It operates as
+  an aggregator, manufacturer, and importer/exporter across supply chains including
+  steel, aluminium, chemicals, polymers, and agriculture, pairing live commodity pricing,
+  quotations, and order tracking with working-capital credit through its NBFC arm Oxyzo.
+  Related brands include BidAssist (government tender and procurement intelligence),
+  SMEAssist, and Ved AI. The company is backed by Norwest Venture Partners and the
+  SoftBank Vision Fund. OfBusiness reaches customers primarily through its website and
+  iOS/Android mobile apps; no public developer API or API documentation was found during
+  enrichment.'
 url: https://raw.githubusercontent.com/api-evangelist/ofbusiness/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,10 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
-- Unknown
+- B2B
+- Procurement
+- Commerce
+- Fintech
+- Lending
+- Supply Chain
+- India
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +51,16 @@ maintainers:
 common:
 - type: Website
   url: https://ofbusiness.com
+- type: Blog
+  url: https://ofbusiness.com/blog
+- type: TermsOfService
+  url: https://ofbusiness.com/terms-of-use
+- type: Support
+  url: https://ofbusiness.com/about/contact
+- type: DomainSecurity
+  url: security/ofbusiness-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
