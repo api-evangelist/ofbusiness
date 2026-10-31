@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ofbusiness is a company surfaced as a portfolio company of norwest-venture-partners, softbank-vision-fund and added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting the enrichment pipeline.
+OfBusiness is one of India's largest B2B raw-materials procurement and credit platforms, serving more than two million SMEs and corporates. It operates as an aggregator, manufacturer, and importer/exporter across supply chains including steel, aluminium, chemicals, polymers, and agriculture, pairing live commodity pricing, quotations, and order tracking with working-capital credit through its NBFC arm Oxyzo. Related brands include BidAssist (government tender and procurement intelligence), SMEAssist, and Ved AI. The company is backed by Norwest Venture Partners and the SoftBank Vision Fund. OfBusiness reaches customers primarily through its website and iOS/Android mobile apps; no public developer API or API documentation was found during enrichment.
 
-Backed by: norwest-venture-partners, softbank-vision-fund — https://ofbusiness.com
+**Areas:** Company · B2B · Procurement · Commerce · Fintech · Lending · Supply Chain · India
+
+## Ofbusiness on APIs.io
+
+Everything profiled for Ofbusiness is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ofbusiness/](https://apis.io/providers/ofbusiness/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ofbusiness Domain Security](https://apis.io/security/ofbusiness/ofbusiness-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ofbusiness.com)
+- [Support](https://ofbusiness.com/about/contact)
+- [Blog](https://ofbusiness.com/blog)
+- [Terms of service](https://ofbusiness.com/terms-of-use)
+
+## API Evangelist rating
+
+**Kin Score 7.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ofbusiness/](https://apis.io/providers/ofbusiness/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ofbusiness: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ofbusiness/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
